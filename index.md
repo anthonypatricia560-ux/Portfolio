@@ -2,18 +2,18 @@
 layout: default
 title: Patricia Anthony | Data Analyst
 ---
-<div style="display: flex; flex-direction: row; align-items: center; gap: 25px; flex-wrap: wrap; margin-bottom: 30px;">
-
-<img src="/Portfolio/Profile.jpg.jpeg" alt="Patricia Anthony" width="220" style="border-radius: 12px;">
-
-<div>
+<table style="border: none; width: 100%;">
+<tr>
+<td style="border: none; width: 230px; vertical-align: middle;">
+<img src="/Portfolio/Profile.jpg.jpeg" alt="Patricia Anthony" width="200" style="border-radius: 12px;">
+</td>
+<td style="border: none; vertical-align: middle;">
 <h1>Patricia Anthony</h1>
 <h3>Data Analyst | Turning Data into Meaningful Insights</h3>
 <p>Transforming raw data into meaningful insights that support smarter decisions.</p>
-</div>
-
-</div>
-
+</td>
+</tr>
+</table>
 ## About Me
 
 I am continuously developing my analytical and technical skills through hands-on projects and practical learning. My goal is to use data to solve problems and support informed business decisions.
