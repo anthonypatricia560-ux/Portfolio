@@ -5,7 +5,7 @@ Hello! I'm Patricia Anthony🤓, a Data Analyst with an engineering background a
 
 
 <!-- Mention your top/relevant skills here - core and soft skills-->
-## skills
+## Skills
 
 I use data analysis and visualization techniques to help businesses understand their data and make better decisions.
 
