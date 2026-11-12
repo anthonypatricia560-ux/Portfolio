@@ -1,11 +1,11 @@
 <!-- Selection 1: Introduce your self -->
 ## About Me
 
-Hello! I'm Patricia Anthony🤓, a Data Analyst with an engineering background and a passion for transforming raw data into meaningful insights.I enjoy exploring data, identifying trends and patterns, and developing visual reports that support informed decision-making.I am continuously building my analytical skills and expanding my knowledge across different industries.
+Hello! I'm Patricia Anthony🤓, a Data Analyst with an engineering background and a passion for transforming raw data into meaningful insights.I enjoy exploring data, identifying trends and patterns, and developing visual reports that support informed decision-making. I am continuously building my analytical skills and expanding my knowledge across different industries.
 
 
 <!-- Mention your top/relevant skills here - core and soft skills-->
-## What I Do
+## skills
 
 I use data analysis and visualization techniques to help businesses understand their data and make better decisions.
 
@@ -35,13 +35,13 @@ Here are some of my data analytics projects, showcasing my practical experience 
 
 Analyzing customer behaviour, identifying churn patterns and highlighting factors that influence customer retention.
 
-![Customer Churn Dashboard](customer-churn-dashboard.png)
+![Customer Churn Dashboard](customer-churn-dashboard.png.png)
 
 **Pipe Thickness Loss Analysis and Condition Assessment**
 
 Analyzing pipe thickness loss, corrosion impact and material conditions to support asset assessment and maintenance decisions.
 
-![Pipe Thickness Dashboard](pipe-thickness-dashboard.png)
+![Pipe Thickness Dashboard](pipe-thickness-dashboard.png.png)
 ---
 
 ### Microsoft Excel Projects
@@ -50,13 +50,13 @@ Analyzing pipe thickness loss, corrosion impact and material conditions to suppo
 
 Analyzing property sales and conversion performance, identifying trends and presenting business insights through an Excel dashboard.
 
-![Emerald Properties Dashboard](emerald-properties-dashboard.png)
+![Emerald Properties Dashboard](emerald-properties-dashboard.png.png)
 
 **Furniture Sales Analysis**
 
 Exploring furniture sales data to identify sales trends, product performance and business opportunities through Excel.
 
-![Furniture Sales Dashboard](furniture-sales-dashboard.png)
+![Furniture Sales Dashboard](furniture-sales-dashboard.png.png)
 
 ---
 
