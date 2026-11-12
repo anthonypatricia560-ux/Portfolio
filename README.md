@@ -1,6 +1,3 @@
-# Patricia Anthony
-### Data Analyst | Turning Data into Meaningful Insights
-
 ---
 
 ## About Me
