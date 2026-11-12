@@ -12,10 +12,15 @@ I use data analysis and visualization techniques to help businesses understand t
 My areas of focus include:
 
 -✅ Data Cleaning and Preparation
+
 -✅ Exploratory Data Analysis (EDA)
+
 -✅ Data Visualization
+
 -✅ Dashboard Development
+
 -✅ Data Interpretation and Reporting
+
 -✅ Generating Actionable Business Insights
 
 
@@ -30,14 +35,13 @@ Here are some of my data analytics projects, showcasing my practical experience 
 
 Analyzing customer behaviour, identifying churn patterns and highlighting factors that influence customer retention.
 
-<!-- Insert Customer Churn Dashboard Screenshot Here -->
+![Customer Churn Dashboard](customer-churn-dashboard.png)
 
 **Pipe Thickness Loss Analysis and Condition Assessment**
 
 Analyzing pipe thickness loss, corrosion impact and material conditions to support asset assessment and maintenance decisions.
 
-<!-- Insert Pipe Thickness Dashboard Screenshot Here -->
-
+![Pipe Thickness Dashboard](pipe-thickness-dashboard.png)
 ---
 
 ### Microsoft Excel Projects
@@ -46,20 +50,22 @@ Analyzing pipe thickness loss, corrosion impact and material conditions to suppo
 
 Analyzing property sales and conversion performance, identifying trends and presenting business insights through an Excel dashboard.
 
-<!-- Insert Emerald Properties Dashboard Screenshot Here -->
+![Emerald Properties Dashboard](emerald-properties-dashboard.png)
 
 **Furniture Sales Analysis**
 
 Exploring furniture sales data to identify sales trends, product performance and business opportunities through Excel.
 
-<!-- Insert Furniture Sales Dashboard Screenshot Here -->
+![Furniture Sales Dashboard](furniture-sales-dashboard.png)
 
 ---
 
 ## Tools & Technical Skills
 
 -✅ Microsoft Excel
+
 -✅ Microsoft Power BI
+
 -✅ SQL – Currently Learning
 
 ---
