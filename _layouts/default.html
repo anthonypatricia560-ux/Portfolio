@@ -1,0 +1,46 @@
+---
+---
+
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'en-US' }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ site.title | default: site.github.repository_name }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <div class="wrapper">
+    <header>
+      <h1>{{ site.title | default: site.github.repository_name }}</h1>
+
+      <p>
+        <a href="{{ site.github.repository_url }}">
+          View the Project on GitHub
+        </a>
+      </p>
+
+      <img
+        src="{{ '/Profile.jpg.jpeg' | relative_url }}"
+        alt="Patricia Anthony"
+        width="180"
+        style="border-radius: 12px; margin-top: 20px;"
+      >
+
+    </header>
+
+    <section>
+      {{ content }}
+    </section>
+
+    <footer>
+      <p>This project is maintained by
+        <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>
+      </p>
+      <p>Hosted by GitHub Pages — Theme by
+        <a href="https://github.com/orderedlist">orderedlist</a>
+      </p>
+    </footer>
+  </div>
+</body>
+</html>
