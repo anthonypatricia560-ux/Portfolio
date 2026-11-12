@@ -2,16 +2,17 @@
 layout: default
 title: Patricia Anthony | Data Analyst
 ---
+<div style="display: flex; align-items: center; gap: 25px; flex-wrap: wrap; margin-bottom: 30px;">
 
-# Patricia Anthony
+<img src="profile.jpg" alt="Patricia Anthony" width="220" style="border-radius: 12px;">
 
-### Data Analyst | Turning Data into Meaningful Insights
+<div>
+<h1>Patricia Anthony</h1>
+<h3>Data Analyst | Turning Data into Meaningful Insights</h3>
+<p>Transforming raw data into meaningful insights that support smarter decisions.</p>
+</div>
 
-Welcome to my portfolio!
-
-I am an aspiring Data Analyst passionate about exploring data, identifying patterns, and transforming information into meaningful insights that support better decision-making.
-
-I enjoy working with data across different industries, including business, healthcare, telecommunications, retail, and engineering.
+</div>
 
 ## About Me
 
