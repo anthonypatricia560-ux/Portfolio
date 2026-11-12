@@ -5,7 +5,7 @@ title: Patricia Anthony | Data Analyst
 <table style="border: none; width: 100%;">
 <tr>
 <td style="border: none; width: 230px; vertical-align: middle;">
-<img src="/Portfolio/Profile.jpg.jpeg" alt="Patricia Anthony" width="200" style="border-radius: 12px;">
+
 </td>
 <td style="border: none; vertical-align: middle;">
 <h1>Patricia Anthony</h1>
