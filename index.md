@@ -4,9 +4,9 @@ title: Patricia Anthony | Data Analyst
 ---
 <div style="display: flex; align-items: center; gap: 25px; flex-wrap: wrap; margin-bottom: 30px;">
 
-<img src="profile.jpg" alt="Patricia Anthony" width="220" style="border-radius: 12px;">
+<img src="profile.jpg.jpeg" alt="Patricia Anthony" width="220" style="border-radius: 12px;">
 
-<div>
+<div> <h1><strong>Patricia Anthony</strong></h1>
 <h3>Data Analyst | Turning Data into Meaningful Insights</h3>
 <p>Transforming raw data into meaningful insights that support smarter decisions.</p>
 </div>
