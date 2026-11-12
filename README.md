@@ -35,7 +35,7 @@ Here are some of my data analytics projects, showcasing my practical experience 
 
 Analyzing customer behaviour, identifying churn patterns and highlighting factors that influence customer retention.
 
-![Customer Churn Dashboard](customer-churn-dashboard.png.png)
+![Customer Churn Dashboard](customer-churn-dashborad.png.png)
 
 **Pipe Thickness Loss Analysis and Condition Assessment**
 
