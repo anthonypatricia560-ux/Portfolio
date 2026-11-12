@@ -76,7 +76,7 @@ I am open to professional opportunities, collaborations and data analytics proje
 
 - **LinkedIn:** www.linkedin.com/in/patricia-asuquo-61b39344a**
 - **Email: ** anthonypatricia560@gmail.com**
-- **WhatsApp:**https://wa.me/2348101402152**
-- **GitHub:**
+- **WhatsApp:**https://wa.me/2349157758345**
+- **GitHub:**https://github.com/anthonypatricia560-ux**
 
 *Thank you for visiting my portfolio!*
